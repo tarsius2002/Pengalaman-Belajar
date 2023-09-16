@@ -1,13 +1,23 @@
-# Pengalaman-Belajar
-Repository ini berisi pengalaman belajarku di dicoding 
+# PengalamanBelajar
 
-14 september 2023
-belajar kelas memulai pemrograman dengan javascript. (progres 30%)
-- belajar tentang apa itu javascript dan alasan mengggunakannya.
-- belajar tools yang dapat digunakan untk menjalnkan bahasa pemrograman javascript
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-15 september 2023
-belajar kelas memulai pemrograman dengan java. (progres 56%)
-- belajar dasar dasar java, seperti struktur dasar, tipe data operator, input output, dan array
-- belajar control flow dalam java, seperti perulanga dan perccabangan.
-- belajar tipe data koleksi, seperti list, set, dan map.
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
+  * Belajar tipe data koleksi, seperti list, set, dan map.
